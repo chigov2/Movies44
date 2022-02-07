@@ -21,6 +21,7 @@ public class RegisterActivity extends AppCompatActivity {
         setContentView(R.layout.activity_register);
         Objects.requireNonNull(getSupportActionBar()).hide();
 
+
     }
 
     public void onClickAlreadyRegistered(View view) {
