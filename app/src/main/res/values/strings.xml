@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies44</string>
+    <string name="enter_e_mail">Enter e-mail</string>
+    <string name="enter_password">Enter password</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already Registered</string>
+
+</resources>
