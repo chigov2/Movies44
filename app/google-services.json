@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901822388254",
+    "project_id": "chigoffmovies",
+    "storage_bucket": "chigoffmovies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901822388254:android:7374ce7ab7cf0706d5f60f",
+        "android_client_info": {
+          "package_name": "techmarket.uno.movies44"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901822388254-93mksfriav6bbt91p3u3pn7iu4jq2ao5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techmarket.uno.movies44",
+            "certificate_hash": "89f411ed1f04bbd3397bb27b1d6eb612a1286b29"
+          }
+        },
+        {
+          "client_id": "901822388254-hme4tgu0v7k9jnebcuingvjui0b7gom6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcx8jxSGhljQ_-nO85l453bTnV6vbW2Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901822388254-hme4tgu0v7k9jnebcuingvjui0b7gom6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
